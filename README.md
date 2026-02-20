@@ -1,2 +1,2 @@
 ### 📊 Coding Stats (Last 7 Days)
-[![wakatime](https://wakatime.com/badge/user/23dda256-72e5-4bb3-896a-5a4d146caac6/project/ba1b6260-bb99-44a2-9f60-e337c406f93d.svg)](https://wakatime.com/badge/user/23dda256-72e5-4bb3-896a-5a4d146caac6/project/ba1b6260-bb99-44a2-9f60-e337c406f93d)
+![Wakatime Status](https://wakatime.com/share/@takutoseto/0d4f8c08-11ed-42d2-b69a-683811d70573.svg)
