@@ -6,9 +6,9 @@
 ### ⚡Quick Bio
   - **Current**: IT企画推進部にてサポートデスク・事務効率化を担当。
 
-  - **Motto**: 「まずは試してみること」―― 実践を通じた成長を最優先しています。
+  - **Motto**: 「まずは試してみること」をモットーに学習中
 
-  - **Interests**: コーヒー、お菓子(make&eat)
+  - **Interests**: コーヒー、お菓子(つくる&たべる)
 <br>
 
 ### 📊Current Learning Focus
