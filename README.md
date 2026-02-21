@@ -1,6 +1,6 @@
 # My Profile
 <a href="https://github.com/kawarimidoll/typograssy">
-  <img src="https://typograssy.deno.dev/api?text=Hello%20world!" width="100%">
+  <img src="https://typograssy.deno.dev/api?text=Hello%20world%E3%80%80developer!" width="100%">
 </a>
 
 
