@@ -1,39 +1,38 @@
-# My Profile
-<a href="https://github.com/kawarimidoll/typograssy">
-  <img src="https://typograssy.deno.dev/api?text=Hello%20world%E3%80%80developer!%20&speed=150" width="100%">
-</a>
- 
-### ⚡Quick Bio
-  - **Current**: メーカー企業内で社内サポートデスク・事務効率化を担当。
+<div align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img src="https://typograssy.deno.dev/api?text=Hello%20world%20developer!%20&speed=150" width="800">
+  </a>
 
-  - **Motto**: 「まずは試してみる姿勢」を大切にしています
+  # Hi, I'm TAKUTO SETO 👋
+  
+  <br>
+  
+  [![Link to My Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=for-the-badge&logo=googlesheets&logoColor=white)](https://github.com/your-username)
+</div>
 
-  - **Interests**: コーヒー、お菓子(つくる&たべる)
-<br>
+---
 
-### Current Learning Focus
-- [ ] Pythonによる業務自動化・Webアプリケーション開発
-- [ ] データの可視化と意思決定支援
-- [ ] チーム開発を見据えたスキルの可視化（GitHubでのアウトプット）
+### ⚡ Quick Bio
+- 🏢 **Current:** メーカー系IT企画推進部にて、サポートデスク・事務効率化を担当。
+- 💡 **Motto:** **「まずは試してみること」** ―― 実践から学び、形にすることを大切にしています。
+- ☕ **Interests:** コーヒー、お菓子作り（タルトが得意）、サウナ
 
-<br>
+### 🛠 Tech Stack & Certifications
+| Category | Stack |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **DevOps** |  |
+| **Certifications** | ![FE](https://img.shields.io/badge/基本情報技術者-Pass-blue) ![SG](https://img.shields.io/badge/情報セキュリティマネジメント-Pass-blue) ![PythonData](https://img.shields.io/badge/Pythonデータ分析認定-Pass-blue) |
 
-# Tech Stacks
-### Languages:
-- Frontend: 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+### 📈 Coding Activity (WakaTime)
+<div align="center">
+  <img src="https://wakatime.com/share/@takutoseto/0d4f8c08-11ed-42d2-b69a-683811d70573.svg" width="800">
+</div>
 
-- Backend: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+---
 
-<br>
-
-### Certifications
-- [x] 基本情報技術者試験 (FE)
-- [x] 情報セキュリティマネジメント試験 (SG)
-- [x] Python3 エンジニア認定 データ分析試験
-
-<br>
-
-## 📊Coding Stats (Last 7 Days)
-![Wakatime Status](https://wakatime.com/share/@takutoseto/0d4f8c08-11ed-42d2-b69a-683811d70573.svg)
+### 🎯 Current Learning Focus
+- [ ] **Python:** 業務効率化ツールおよびWebアプリの開発
+- [ ] **Data Science:** 統計学とデータ可視化による意思決定支援の追求
+- [ ] **Community:** チーム開発への参画を見据えたGitHubでのアウトプット継続
