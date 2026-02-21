@@ -1,7 +1,7 @@
 # My Profile
-![typograssy](https://typograssy.deno.dev/api?text=Hello%20world%20developer!!%20)
-
-
+<a href="https://github.com/kawarimidoll/typograssy">
+  <img src="https://typograssy.deno.dev/api?text=Hello%20world!" width="100%">
+</a>
 
 
 # stacks
