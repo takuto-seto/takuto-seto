@@ -4,15 +4,15 @@
 </a>
 
 
-# stacks
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="66" height="66" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="66" height="66" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="66" height="66" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="66" height="66" />
-</div>
+# Tech Stacks
+### Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-
+### Certifications
+基本情報技術者試験 (FE)
+情報セキュリティマネジメント試験 (SG)
+Python3 エンジニア認定 データ分析試験
 
 
 ## Coding Stats (Last 7 Days)
