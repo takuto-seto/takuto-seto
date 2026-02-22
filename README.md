@@ -13,8 +13,8 @@
 ---
 
 ### ⚡ Quick Bio
-- 🏢 **Current:** メーカー系IT企画推進部にて、サポートデスク・事務効率化を担当。
-- 💡 **Motto:** **「まずは試してみること」** ―― 実践から学び、形にすることを大切にしています。
+- 🏢 **Current:** メーカー企業のIT企画推進部にて、サポートデスク・事務効率化を担当。
+- 💡 **Motto:** **「まずは試してみること。」** ―― 実践することで身に付くという考え方を大切にしています。
 - ☕ **Interests:** コーヒー、お菓子作り（タルトが得意）、サウナ
 
 ### 🛠 Tech Stack & Certifications
@@ -27,7 +27,7 @@
 
 ### 📈 Coding Activity (WakaTime)
 <div align="center">
-  <img src="https://wakatime.com/share/@takutoseto/c6c596f7-95a1-408d-97fe-01bb046f6096.svg" width="800">
+  <img src="https://wakatime.com/share/@takutoseto/ce7cd6c4-1392-4c75-9c05-5b839a10edca.svg" width="800">
 </div>
 
 ---
