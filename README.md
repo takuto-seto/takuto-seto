@@ -26,13 +26,15 @@
 | **Certifications** | ![FE](https://img.shields.io/badge/基本情報技術者-Pass-blue) ![SG](https://img.shields.io/badge/情報セキュリティマネジメント-Pass-blue) ![PythonData](https://img.shields.io/badge/Pythonデータ分析認定-Pass-blue) |
 
 ### 📈 Coding Activity (WakaTime)
-<div align="center">
-  <img src="https://wakatime.com/share/@takutoseto/ce7cd6c4-1392-4c75-9c05-5b839a10edca.svg" width="800">
-</div>
+<p align="center">
+  <img src="https://wakatime.com/share/@takutoseto/ce7cd6c4-1392-4c75-9c05-5b839a10edca.svg" width="45%">
+  <img src="https://wakatime.com/share/@takutoseto/5dc72c71-edbe-4634-909c-693c1f4a70d4.svg" width="45%">
+</p>
+
 
 ---
 
 ### 🎯 Current Learning Focus
-- [ ] **Python:** 業務効率化ツールおよびWebアプリの開発
-- [ ] **Data Science:** 統計学とデータ可視化による意思決定支援の追求
-- [ ] **Community:** チーム開発への参画を見据えたGitHubでのアウトプット継続
+- [x] **Python:** 業務効率化ツールおよびWebアプリの開発
+- [x] **Data Science:** ITを使用したデータ分析とデータ可視化による課題解決方法のインプット
+- [x] **Community:** チーム開発への参画を見据えたGitHubでのアウトプット継続
