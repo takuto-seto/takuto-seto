@@ -27,8 +27,8 @@
 
 ### 📈 Coding Activity (WakaTime)
 <p align="center">
-  <img src="https://wakatime.com/share/@takutoseto/ce7cd6c4-1392-4c75-9c05-5b839a10edca.svg" width="45%">
   <img src="https://wakatime.com/share/@takutoseto/5dc72c71-edbe-4634-909c-693c1f4a70d4.svg" width="45%">
+  <img src="https://wakatime.com/share/@takutoseto/ce7cd6c4-1392-4c75-9c05-5b839a10edca.svg" width="45%">
 </p>
 
 
